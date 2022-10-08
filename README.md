@@ -9,7 +9,7 @@
 </div><br>
 
 <div align="center">
-  <img align="center" alt="Minha foto" height="150" style="border-radius:50px; margin-bottom: 10vw;" src="https://rafadevweb.netlify.app/assets/images/me1.png" />
+  <img align="center" alt="Minha foto" height="150" style="border-radius:50px; margin-bottom: 10vw;" src="https://rafadevweb.netlify.app/assets/images/me4.png" />
 </div><br>
 
 <div align="center">
