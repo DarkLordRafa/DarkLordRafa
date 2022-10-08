@@ -28,6 +28,7 @@
 * **HTML5**
 * **CSS3**
 * **JavaScript**
+* **ReactJs**
 * **Bootstrap 5**
 
 <div align="center">
