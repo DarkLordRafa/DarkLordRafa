@@ -2,14 +2,14 @@
 <h2 align="center">Meu nome é Rafael</h2>
 
 <div style="display: inline-block;" align="center"><br>
-  <img align="center" alt="Meu HTML" height="50" width="40" src="https://rafadevweb.netlify.app/assets/images/me4.png">
+  <img align="center" alt="Meu HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Meu CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Meu Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Meu Bootstrap" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div><br>
 
 <div align="center">
-  <img align="center" alt="Minha foto" height="150" style="border-radius:50px; margin-bottom: 10vw;" src="https://scontent.fcau11-2.fna.fbcdn.net/v/t39.30808-6/302457107_2061103157406483_3017108910418517076_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=103&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeE3F8DlOwXqyBtfNPlK3uKxqEln1nPkjSuoSWfWc-SNK_vjI5O3zpsoMpK-HW0MPiC5tEyObxRJ9KmBlRyrIoVD&_nc_ohc=yMKHAkqEp_oAX9sqM4M&_nc_ht=scontent.fcau11-2.fna&oh=00_AT-OOl10RYVmCGu_SkUNR_fTvXWdNLMZyo2sjfVd0ISyyQ&oe=632C1B16" />
+  <img align="center" alt="Minha foto" height="150" style="border-radius:50px; margin-bottom: 10vw;" src="https://rafadevweb.netlify.app/assets/images/me1.png" />
 </div><br>
 
 <div align="center">
