@@ -22,13 +22,19 @@
   </a>
 </div><br>
 
-🔭 Estou trabalhando atualmente com **Desenvolvimento Mobile, com foco no Android**\
+🛠️ Estou trabalhando atualmente com **Desenvolvimento Mobile, com foco no Android**\
 🚶🏻‍♂️ Migrando da área de Web Front End\
-🌱 Estou me aperfeiçoando atualmente em:
+💪🏻 Tecnologias que conheço:
 
 * **Android**
 * **Java**
 * **SQL**
+
+🎯 Tecnologias de interesse:
+
+* **Kotlin**
+* **Spring Boot**
+* **Testes**
 
 <div align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=darklordrafa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
