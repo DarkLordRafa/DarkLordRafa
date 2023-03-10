@@ -2,7 +2,7 @@
 <h2 align="center">Meu nome é Rafael</h2>
 
 <div style="display: inline-block;" align="center"><br>
-  <img align="center" alt="Meu HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Meu HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/android-original.svg">
   <img align="center" alt="Meu CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Meu Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Meu ReactJs" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,14 +22,13 @@
   </a>
 </div><br>
 
-🔭 Estou trabalhando atualmente com **Desenvolvimento Front End**\
+🔭 Estou trabalhando atualmente com **Desenvolvimento Mobile, com foco no Android**\
+🚶🏻‍♂️ Migrando da área de Web Front End\
 🌱 Estou me aperfeiçoando atualmente em:
 
-* **HTML5**
-* **CSS3**
-* **JavaScript**
-* **ReactJs**
-* **Bootstrap 5**
+* **Android**
+* **Java**
+* **SQL**
 
 <div align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=darklordrafa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
