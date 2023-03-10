@@ -3,10 +3,10 @@
 
 <div style="display: inline-block;" align="center"><br>
   <img align="center" alt="Meu Android Studio" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Meu CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/android-original.svg">
-  <img align="center" alt="Meu Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/java-original.svg">
-  <img align="center" alt="Meu ReactJs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/kotlin-original.svg">
-  <img align="center" alt="Meu Bootstrap" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/sql-original.svg">
+  <img align="center" alt="Meu Android" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img align="center" alt="Meu Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Meu Kotlin" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Meu MySql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div><br>
 
 <div align="center">
