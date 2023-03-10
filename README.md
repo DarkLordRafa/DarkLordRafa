@@ -3,7 +3,7 @@
 
 <div style="display: inline-block;" align="center"><br>
   <img align="center" alt="Meu HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/android-original.svg">
-  <img align="center" alt="Meu CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/java-original.svg">
+  <img align="center" alt="Meu CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Meu Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Meu ReactJs" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Meu Bootstrap" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
