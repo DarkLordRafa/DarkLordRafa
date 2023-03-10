@@ -3,10 +3,10 @@
 
 <div style="display: inline-block;" align="center"><br>
   <img align="center" alt="Meu Android Studio" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Meu CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Meu Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Meu ReactJs" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Meu Bootstrap" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Meu CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/android-original.svg">
+  <img align="center" alt="Meu Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/java-original.svg">
+  <img align="center" alt="Meu ReactJs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/kotlin-original.svg">
+  <img align="center" alt="Meu Bootstrap" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/sql-original.svg">
 </div><br>
 
 <div align="center">
