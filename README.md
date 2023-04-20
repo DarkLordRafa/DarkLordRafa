@@ -37,8 +37,8 @@
 * **Testes**
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=darklordrafa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darklordrafa&layout=compact&langs_count=7&theme=dark"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=darklordrafa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darklordrafa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   ![Snake animation](https://github.com/DarkLordRafa/DarkLordRafa/blob/output/github-contribution-grid-snake.svg)
