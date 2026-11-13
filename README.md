@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/rafael-silva-363bbb212" target="_blank"><img height="35" src="https://darklordrafa.github.io/Exercicios-HTML/imagens/l2.png">
   </a>
-  <a href="https://instagram.com/darklordrafa" target="_blank"><img height="35" src="https://darklordrafa.github.io/Exercicios-HTML/imagens/i2.png">
+  <a href="https://instagram.com/naofumeram" target="_blank"><img height="35" src="https://darklordrafa.github.io/Exercicios-HTML/imagens/i2.png">
   </a>
   <a href = "mailto:rafa.thefrost@gmail.com"><img height="35" src="https://darklordrafa.github.io/Exercicios-HTML/imagens/g1.png">
   </a>
